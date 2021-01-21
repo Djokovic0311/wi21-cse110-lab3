@@ -1,1 +1,2 @@
-# CSE-110-LAB2
+# wi21-cse110-lab3
+https://djokovic0311.github.io/wi21-cse110-lab3/
